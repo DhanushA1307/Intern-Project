@@ -1,2 +1,2 @@
 # Intern-Project
-Regarding about Business Analytics
+## Regarding Business Analytics to represent the growth of their Company.
